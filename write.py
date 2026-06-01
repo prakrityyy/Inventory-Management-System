@@ -1,5 +1,5 @@
 from datetime import datetime
-
+// This module contains functions to write product data and generate invoices for the WeCare Product Sales System.
 def write_products(products, file_path="products.txt"):
     with open(file_path, "w") as file:
         for p in products:
