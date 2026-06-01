@@ -1,9 +1,9 @@
 from read import read_products
 from operation import process_sale, restock, display_products
-
+// This is the main entry point for the WeCare Product Sales System.
 def main():
     products = read_products()
-
+ 
     while True:
         print("\n--- WeCare Product Sales System ---")
         print("1. Display Products")
