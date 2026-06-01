@@ -1,3 +1,6 @@
 Vitamin C Serum, Garnier, 184, 1000.0, France
 Skin Cleanser, Cetaphil, 86, 280.0, Switzerland
 Sunscreen, Aqualogica, 200, 700.0, India
+Facewash, cerave, 50, 700, London
+Retinol, KSecret, 50, 3000, Korea
+Toner, Plum, 40, 800, India
